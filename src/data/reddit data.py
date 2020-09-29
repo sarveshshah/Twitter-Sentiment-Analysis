@@ -70,4 +70,4 @@ def get_data(subreddit, search_term):
     display(df.head())
 
 
-get_data('a','b',1)
+get_data('philadelphia','septa')
