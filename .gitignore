@@ -4,3 +4,5 @@ notebooks/.ipynb_checkpoints/reddit_data-checkpoint.ipynb
 notebooks/.ipynb_checkpoints/twitter data-checkpoint.ipynb
 reference files/api_keys/reddit_credentials.json
 reference files/api_keys/twitter_credentials.json
+notebooks/new_SEPTA_Social_tweets.csv
+notebooks/tweets.csv
